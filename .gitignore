@@ -1,3 +1,4 @@
 *.conf
 act
 tcp-dump-*
+.DS_Store
