@@ -1,4 +1,4 @@
-archive-bots
+From the Archive: Bots
 ============
 
-AIM and IRC bots I made when I was 16
+I made some AIM and IRC bots when I was around 15 or 16, kind of interesting to look at.
